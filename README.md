@@ -1,4 +1,5 @@
 # MyLinkedInBuddy
+
 A fine-tuned LLM designed to generate professional, human-like LinkedIn posts using TinyLlama + LoRA.
 
 ## Project Overview
@@ -33,9 +34,9 @@ The dataset consists of 50 sample posts for each of the following themes:
 
 ## How to Use
 
-Clone or download this repo
-Open MyLinkedinBuddy.ipynb in Google Colab
-Run the cells step-by-step to
-Load the dataset
-Load and fine-tune the TinyLlama model
-Generate sample LinkedIn posts
+1. Clone or download this repo
+2. Open MyLinkedinBuddy.ipynb in Google Colab
+3. Run the cells step-by-step to
+4. Load the dataset
+5. Load and fine-tune the TinyLlama model
+6. Generate sample LinkedIn posts
