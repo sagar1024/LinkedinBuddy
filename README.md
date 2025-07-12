@@ -25,11 +25,11 @@ The dataset consists of 50 sample posts for each of the following themes:
 
 ## Tools and Libraries Used
 
-TinyLlama (base language model)
-LoRA (for lightweight fine-tuning)
-Hugging Face Transformers
-Google Colab
-JSONL (for storing the dataset)
+1. TinyLlama (base language model)
+2. LoRA (for lightweight fine-tuning)
+3. Hugging Face Transformers
+4. Google Colab
+5. JSONL (for storing the dataset)
 
 ## How to Use
 
