@@ -23,26 +23,19 @@ The dataset consists of 50 sample posts for each of the following themes:
 4. New Offer Acceptances  
 5. Certifications & Skills Acquired
 
-Tools and Libraries Used
+## Tools and Libraries Used
+
 TinyLlama (base language model)
-
 LoRA (for lightweight fine-tuning)
-
 Hugging Face Transformers
-
 Google Colab
-
 JSONL (for storing the dataset)
 
-How to Use
+## How to Use
+
 Clone or download this repo
-
 Open MyLinkedinBuddy.ipynb in Google Colab
-
-Run the cells step-by-step to:
-
+Run the cells step-by-step to
 Load the dataset
-
 Load and fine-tune the TinyLlama model
-
 Generate sample LinkedIn posts
